@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Novels\\": "model"
+        },
+        "files": [
+            
+        ]
+    },
+    "config": {
+        "optimze-autoloader": true
+    }
+}
